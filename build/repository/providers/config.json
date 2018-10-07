@@ -1,0 +1,7 @@
+{
+    "server": "localhost\\SQLEXPRESS",
+    "database": "comunitats",
+    "user": "pvt",
+    "password": "pvt",
+    "port": 1433
+}

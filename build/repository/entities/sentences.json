@@ -1,0 +1,4 @@
+{
+    "getAssets" : "select * from Obras",
+    "getAssetById" : "select * from Obras where id = {0}"
+}
